@@ -39,7 +39,7 @@ If you want to get involved head over to GitHub to get the source code, look at 
 Code of Conduct
 ---------------
 
-Everyone interacting in the pip project's codebases, issue trackers, chat
+Everyone interacting in the pip project's codebases, issue trackers, cha
 rooms, and mailing lists is expected to follow the `PSF Code of Conduct`_.
 
 .. _package installer: https://packaging.python.org/guides/tool-recommendations/
